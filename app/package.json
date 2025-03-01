@@ -21,7 +21,7 @@
     "sweetalert": "^2.1.2",
     "underscore": "^1.12.1",
     "uniforms": "^2.6.5",
-    "uniforms-bridge-simple-schema-2": "^2.6.5",
+    "uniforms-bridge-simple-schema-2": "^4.0.0",
     "uniforms-semantic": "^2.6.5"
   },
   "devDependencies": {
